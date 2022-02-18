@@ -1,0 +1,23 @@
+.heading{
+    margin-top: 0in;
+    width: 100%;
+}
+.instruct{
+    float:right !important;
+}
+#text{
+    float:left;
+}
+#a{
+    background-color: gold;
+}
+.modal-content{
+    background-color: orange;
+}
+
+#footer{
+    margin-bottom:0px;
+    width:100%;
+    background-color: white;
+    font-size: 10px;
+}
